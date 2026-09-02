@@ -12,15 +12,8 @@
 
 <p align="center">
   <a href="https://github.com/laibarao567">
-    <img src="https://github-readme-stats.vercel.app/api?username=laibarao567&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
-  </a>
-  <a href="https://github.com/laibarao567">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=laibarao567&theme=radical&hide_border=true" height="165"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=laibarao567&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -99,12 +92,12 @@
 <h2 align="center">📁 Other Projects</h2>
 
 <p align="center">
-  <a href="https://github.com/laibarao567/Smart-Shopping-Basket"><img src="https://github-readme-stats.vercel.app/api/pin/?username=laibarao567&repo=Smart-Shopping-Basket&theme=tokyonight&hide_border=true"/></a>
-  <a href="https://github.com/laibarao567/Restaurant-Management-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=laibarao567&repo=Restaurant-Management-System&theme=tokyonight&hide_border=true"/></a>
+  <a href="https://github.com/laibarao567/Smart-Shopping-Basket"><img src="https://github-readme-stats.vercel.app/api/pin/?username=laibarao567&repo=Smart-Shopping-Basket&theme=radical&hide_border=true"/></a>
+  <a href="https://github.com/laibarao567/Restaurant-Management-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=laibarao567&repo=Restaurant-Management-System&theme=radical&hide_border=true"/></a>
 </p>
 <p align="center">
-  <a href="https://github.com/laibarao567/BookShare"><img src="https://github-readme-stats.vercel.app/api/pin/?username=laibarao567&repo=BookShare&theme=tokyonight&hide_border=true"/></a>
-  <a href="https://github.com/laibarao567/Rango_Website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=laibarao567&repo=Rango_Website&theme=tokyonight&hide_border=true"/></a>
+  <a href="https://github.com/laibarao567/BookShare"><img src="https://github-readme-stats.vercel.app/api/pin/?username=laibarao567&repo=BookShare&theme=radical&hide_border=true"/></a>
+  <a href="https://github.com/laibarao567/Rango_Website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=laibarao567&repo=Rango_Website&theme=radical&hide_border=true"/></a>
 </p>
 
 ---
