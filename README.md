@@ -50,6 +50,7 @@ I build accessible, AI-driven mobile and web applications. My flagship project, 
 
 **Android Development**
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+![Room](https://img.shields.io/badge/Room-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![JNI/NDK](https://img.shields.io/badge/JNI%2FNDK-3DDC84?style=flat-square&logo=android&logoColor=white)
 
 **AI / Machine Learning & Computer Vision**
@@ -82,6 +83,8 @@ I build accessible, AI-driven mobile and web applications. My flagship project, 
 
 | Project | Description | Tech |
 |---|---|---|
+| [**Weather-Classification-ML**](https://github.com/laibarao567/Weather-Classification-ML) | Multi-class weather condition classification on a 96,000+ record meteorological dataset. Benchmarked Logistic Regression, Decision Tree, Random Forest, and SVM (Random Forest best at 71.0% accuracy), with SHAP/LIME interpretability and exploratory visualizations (heatmaps, ROC curves) | Python, Scikit-learn, SHAP, LIME |
+| [**Medicine_Reminder**](https://github.com/laibarao567/Medicine_Reminder) | Native Android app for medicine scheduling with full CRUD and offline-first local storage. Exact-time alarm scheduling via AlarmManager (Android 12+ permission handling) with a boot-listener so reminders persist across restarts | Kotlin, Room, Coroutines, AlarmManager |
 | [**Smart-Shopping-Basket**](https://github.com/laibarao567/Smart-Shopping-Basket) | IoT-based smart shopping basket for automated billing | Arduino, RFID, C/C++ |
 | [**Restaurant-Management-System**](https://github.com/laibarao567/Restaurant-Management-System) | System to manage restaurant operations | C++ |
 | [**BookShare**](https://github.com/laibarao567/BookShare) | Web app for sharing books | HTML, CSS, Python (Flask), Docker |
