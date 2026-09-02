@@ -11,10 +11,7 @@ I build accessible, AI-driven mobile and web applications. My flagship project, 
 [![GitHub](https://img.shields.io/badge/GitHub-laibarao567-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/laibarao567)
 ![Status](https://img.shields.io/badge/Open_to_Work-success?style=flat-square)
 
-<img src="https://github-readme-stats.vercel.app/api?username=laibarao567&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" alt="Laiba's GitHub stats"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=laibarao567&theme=radical&hide_border=true" height="165" alt="Laiba's GitHub streak"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=laibarao567&theme=radical&no-frame=true&row=1&column=6" alt="Laiba's GitHub trophies"/>
 
 </div>
 
@@ -76,15 +73,6 @@ I build accessible, AI-driven mobile and web applications. My flagship project, 
 <br/>
 
 ## 📁 Other Projects
-
-<p align="center">
-  <a href="https://github.com/laibarao567/Smart-Shopping-Basket"><img src="https://github-readme-stats.vercel.app/api/pin/?username=laibarao567&repo=Smart-Shopping-Basket&theme=radical&hide_border=true" alt="Smart Shopping Basket repo card"/></a>
-  <a href="https://github.com/laibarao567/Restaurant-Management-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=laibarao567&repo=Restaurant-Management-System&theme=radical&hide_border=true" alt="Restaurant Management System repo card"/></a>
-</p>
-<p align="center">
-  <a href="https://github.com/laibarao567/BookShare"><img src="https://github-readme-stats.vercel.app/api/pin/?username=laibarao567&repo=BookShare&theme=radical&hide_border=true" alt="BookShare repo card"/></a>
-  <a href="https://github.com/laibarao567/Rango_Website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=laibarao567&repo=Rango_Website&theme=radical&hide_border=true" alt="Rango Website repo card"/></a>
-</p>
 
 | Project | Description | Tech |
 |---|---|---|
