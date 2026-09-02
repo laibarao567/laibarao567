@@ -83,6 +83,7 @@ I build accessible, AI-driven mobile and web applications. My flagship project, 
 | Project | Description | Tech |
 |---|---|---|
 | [**Smart-Shopping-Basket**](https://github.com/laibarao567/Smart-Shopping-Basket) | IoT-based smart shopping basket for automated billing | Arduino, RFID, C/C++ |
+| [**Medicine_Reminder**](https://github.com/laibarao567/Medicine_Reminder) | Android app for medicine dose reminders | Kotlin |
 | [**Restaurant-Management-System**](https://github.com/laibarao567/Restaurant-Management-System) | System to manage restaurant operations | C++ |
 | [**BookShare**](https://github.com/laibarao567/BookShare) | Web app for sharing books | HTML, CSS, Python (Flask), Docker |
 | [**Rango_Website**](https://github.com/laibarao567/Rango_Website) | Web application project | HTML, CSS, JavaScript |
