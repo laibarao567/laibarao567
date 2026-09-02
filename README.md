@@ -12,15 +12,15 @@
 
 <p align="center">
   <a href="https://github.com/laibarao567">
-    <img src="https://github-readme-stats.vercel.app/api?username=laibarao567&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=laibarao567&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
   </a>
   <a href="https://github.com/laibarao567">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=laibarao567&theme=tokyonight&hide_border=true" height="165"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=laibarao567&theme=radical&hide_border=true" height="165"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=laibarao567&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=laibarao567&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -38,7 +38,6 @@
 - 🎙️ **Offline Speech-to-Text** — Whisper.cpp via JNI/NDK for on-device Urdu transcription
 - 🗣️ **Voice Cloning** — 3-layer fallback (cached sentences → Fish Audio API → Android TTS) with local MP3 caching
 - ⚡ **Performance** — gesture recognition <2s/frame · STT in 3–5s · voice output <4s
-- 📄 Research developed into review + implementation papers — review paper under review at ***British Journal of Educational Technology*** (Wiley)
 
 </td>
 </tr>
