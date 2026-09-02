@@ -37,9 +37,16 @@ I build accessible, AI-driven mobile and web applications. My flagship project, 
 
 **Programming Languages**
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Web Development**
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 **Android Development**
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
@@ -63,7 +70,6 @@ I build accessible, AI-driven mobile and web applications. My flagship project, 
 
 **Development Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 
 **Research / Documentation**
@@ -77,9 +83,9 @@ I build accessible, AI-driven mobile and web applications. My flagship project, 
 | Project | Description | Tech |
 |---|---|---|
 | [**Smart-Shopping-Basket**](https://github.com/laibarao567/Smart-Shopping-Basket) | IoT-based smart shopping basket for automated billing | Arduino, RFID, C/C++ |
-| [**Restaurant-Management-System**](https://github.com/laibarao567/Restaurant-Management-System) | System to manage restaurant operations | — |
-| [**BookShare**](https://github.com/laibarao567/BookShare) | Web app for sharing books | HTML |
-| [**Rango_Website**](https://github.com/laibarao567/Rango_Website) | Web application project | HTML |
+| [**Restaurant-Management-System**](https://github.com/laibarao567/Restaurant-Management-System) | System to manage restaurant operations | C++ |
+| [**BookShare**](https://github.com/laibarao567/BookShare) | Web app for sharing books | HTML, CSS, Python (Flask), Docker |
+| [**Rango_Website**](https://github.com/laibarao567/Rango_Website) | Web application project | HTML, CSS, JavaScript |
 
 <br/>
 
@@ -87,6 +93,20 @@ I build accessible, AI-driven mobile and web applications. My flagship project, 
 
 - Applied machine learning — model comparison and explainability (SHAP/LIME) on classification tasks
 - On-device AI and offline-first accessibility applications
+
+<br/>
+
+## 📜 Certifications
+
+- Kaggle — **Intro to Machine Learning**
+- Kaggle — **Intermediate Machine Learning**
+
+<br/>
+
+## 📫 Let's Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-laibarao567-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/laibarao567)
+[![Gmail](https://img.shields.io/badge/Email-laibarao449%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:laibarao449@gmail.com)
 
 <br/>
 
