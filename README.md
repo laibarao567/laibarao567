@@ -101,6 +101,8 @@ I build accessible, AI-driven mobile and web applications. My flagship project, 
 
 ## 📜 Certifications
 
+- Deloitte (Forage) — **Data Analytics Job Simulation**
+- IBM SkillsBuild — **Supercharge Your Data Analytics with Generative AI**
 - Kaggle — **Intro to Machine Learning**
 - Kaggle — **Intermediate Machine Learning**
 
